@@ -1,0 +1,94 @@
+Data Structures [Daily 1 hour, 1 month]
+Data Structure Concepts
+   What?
+   Why?
+Pre requisits
+   revision of C lang concepts
+   I/O
+   control statements
+   Arrays
+   Functions
+   structures
+   pointer
+Types of DS
+   Static and Dynamic
+   Linear and Non-Linear
+Stack (implementation using arrays)
+   Stack Rules
+   Operations on stack
+   implementation of stack in general programming
+Queues (implementation using arrays)
+   Queue concept
+   Opeations on a queue
+   Types of queues 
+   Circular queue
+Dynamic Memory Allocation (DMA)
+   malloc()
+   free()
+   calloc()
+   realloc()
+Linked List
+   importance and operations on a linked list
+   Single linked list
+      Add at beginning, end, position
+      Delete at beginning, end, position
+      Search / Display
+      Problems to solve
+   Double linked list
+      Add at beginning, end, position
+      Delete at beginning, end, position
+      Search / Display
+   Circular linked list
+      Circular single linked list
+      Circular double linked list
+  	 Add at beginning, end, position
+         Delete at beginning, end, position
+         Search / Display
+   Stack implementation (using linked list)
+   Queue implementation (using linked list)
+Trees
+   Trees concept
+   Teminologies used in trees
+   Types of trees
+   Binary search trees
+     Operations on it
+   Heap trees
+   Priority queues
+Searching techniques
+   Linear search
+   Binary search
+Sorting Techniques
+   Selection sort
+   Bubble sort
+   Insertion sort
+   Merge sort
+   Quick sort
+   Heap sort
+------------------------------
+Data Structures and Algorithms (DSA) implemented in C are fundamental to computer science and find applications in various fields. They are crucial for efficient software development, system design, and solving complex problems. C's low-level control makes it ideal for understanding how data is organized and manipulated, which is essential for creating optimized software. 
+Real-world Applications of DSA in C:
+System Software:
+C is widely used in operating systems, device drivers, and other system-level software. DSA concepts like memory management, process scheduling (using queues and stacks), and file system organization heavily rely on DSA principles. 
+Embedded Systems:
+C is the go-to language for embedded systems due to its efficiency and control over hardware. DSA, particularly data structures like arrays, linked lists, and queues, are used for managing data and resources in real-time environments. 
+Game Development:
+DSA is critical for game logic, AI, and rendering. Data structures like trees (for game levels and AI decision-making) and graphs (for pathfinding) are essential. 
+Database Management Systems:
+C is used in the development of database systems. DSA helps in designing efficient storage and retrieval mechanisms. 
+Networking:
+DSA is used in network protocols, routing algorithms, and data transmission. Concepts like graphs (for network topology) and trees (for routing tables) are used. 
+Compiler Design:
+Compilers use DSA to parse, analyze, and translate code. Data structures like symbol tables (often implemented using hash tables or trees) are crucial for this process. 
+Web Development (Backend):
+While higher-level languages are more common for web development, C can be used in the backend for performance-critical components or for building web servers. 
+Data Analysis and Machine Learning:
+DSA forms the foundation for many algorithms used in data analysis and machine learning. For example, decision trees (a type of tree data structure) are used in machine learning algorithms. 
+Why C for DSA?
+Low-Level Memory Access:
+C allows direct manipulation of memory, which is crucial for understanding how data structures are implemented and optimized.
+Efficiency:
+C code can be very efficient, making it suitable for performance-critical applications.
+Control over Data:
+C gives developers fine-grained control over how data is stored and accessed, which is essential for understanding and implementing complex data structures.
+
+
